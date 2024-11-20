@@ -1,1 +1,1 @@
-console.log("We are the champions of the world!");
+console.log("Campeones de mundos cabron!");
